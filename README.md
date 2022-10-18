@@ -21,7 +21,7 @@
 
 <p> IdngTT Sdn Bhd, a fictional company, wants to develop a digital identity onboarding solution to support unlimited use cases as an underlying identification provider. IdngTT has inaugurated a project called IDDY that is based on Web3.0. IDDY is a mobile application that consists of a Blockchain-based wallet specifically for identity storage. IDDY execute distinct roles in the form of Agent(s). An Agent could be a holder, issuer, or verifier. It performs unique roles based on the designated user type on the platform. </p>
 
-<p> IDDY can integrate through an endpoint to either public or private blockchain ledger to register a credentials definition, issued credentials public key, also known as the DID, and for verification purposes. For this first phase, IDDY will use Indy Blockchain. <em> Reference to Indy ledger [Indy blockchain](https://indyscan.io/txs/SOVRIN_STAGINGNET/domain) <em> </p> 
+<p> IDDY can integrate through an endpoint to either public or private blockchain ledger to register a credentials definition, issued credentials public key, also known as the DID, and for verification purposes. For this first phase, IDDY will use Indy Blockchain. <em> Reference to Indy ledger [Indy blockchain](https://indyscan.io/txs/SOVRIN_STAGINGNET/domain) </em> </p> 
 
 <p> A Holder is an end user whose role is strictly to store credentials issued by an institution. E.g. A birth certificate issued by a hospital certified by a Government is a Verifiable Credentials. Similarly, other credential forms are school certificates, employment letters, driver's licences, banking information, or any identification documents. These are potential use cases of verifiable credentials stored on the Blockchain and issued to an end user's(holder) IDDY mobile application. </p>
 
@@ -29,7 +29,7 @@
 
 <p> A Verifier is an entity, institution or anyone empowered through the IDDY app to verify the authenticity of a VC against the Blockchain. A verifying agent can also be an Issuer in that an issuer must be able to verify the authenticity of their credentials and of others registered on the Blockchain, E.g. An hospital, a university, or an immigration service will be able to prove their issued certificates through IDDY App</p>
 
-### Deliverables for IDDY
+### IDDY BA Project Deliverables
 <p> As a Business Analyst, create the deliverables for non-technical and technical stakeholders to progress with implementation. The main target is for Software engineers. </p>
 <p> 
 Deliverables for the above case:
