@@ -2,29 +2,49 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-<p> Business Analysts - PopQuiz! </p>
+<p style="text-align: center;"> Business Analysts - PopQuiz! </p>
 
 ## Rationale
 
-<p> The Internet has a weaklink that is long overdue for a complete overhaul. It is considered unfashionable as modern softwares still continues to use the same centralise data structures (Databases) while unable to guarantee its safety. Central databases are housed in or by a central provider, and thus they own and control the records in them. </br> In other words, the personal and confidential information of a user provided during onbaording registration on any online platform is actually at the mercy of the platform owners. <p/>
+<p> The Internet has a weak link that is long overdue for a complete overhaul. It is considered unfashionable as modern software continues to use the same centralized data structures (Databases) and cannot guarantee its safety. Central databases are housed in or by a central provider. Thus they own and control the records in them. </br> In other words, a user's personal and confidential information during onboarding registration on any online platform is actually at the mercy of the platform owners. <p/>
 
-<p> This has caused unimaginable risk to users across the world, in particular the cases of hacks and data bridges on banks and financial insitution globally re-occuring. </br> Even more, personal data loss for anyone increase the risks of identity theft or infringement on many fronts: health, financial, business and on many personal endeavours, which is tool for continuous exploitation even after the bridge is resolved. <p/>
+<p> This has caused unimaginable risk to users worldwide, particularly the cases of global hacks and data breaches on banks and financial institutions. </br> Even more, personal data loss for anyone increases the risks of identity theft or infringement on many fronts: health, finances, business and many personal endeavours, which is a tool for continuous exploitation even after the data breach incident. <p/>
 
-<p> Web3.0 is a paradigm shift from the current internet, which is considered as Web2.0. </br> It intends to give users more control over their personal information on the internet. Companies will no longer be able to control the personal data on their online platforms nor will they have the explicit authority to share, extract or manipulate them. A user will have complete ownership of their data, a mantra culmunating to the Self-soverign Identity (SSI) blockchain. SSI powers the Web3.0 revolution. The paradigm shift gives rise to the adoption of SSI identity by many companies and service provider. In order to embody the qualities of Web3.0, SSI identity is the way to go. <p/>
+<p> Web3.0 is a paradigm shift from the current internet, considered Web2.0. </br> It intends to give users more control over their personal information on the internet. Companies will no longer be able to control the personal data on their online platforms, nor will they have the explicit authority to share, extract or manipulate them. Users will have complete ownership of their data, a mantra culminating in the Self-sovereign Identity (SSI) blockchain. SSI powers the Web3.0 revolution. The paradigm shift gives rise to the adoption of SSI identity by many companies and service providers. The new shift from a central to a decentralized identity model powered by SSI is the core of IDDY. <p/>
 
-<p> As an opensource initiatice, W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
+<p> As an open-source initiative, the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
 
  - [W3C VC Credentials] (https://www.w3.org/TR/vc-data-model/)
  - [W3C DID] (https://www.w3.org/TR/did-core/)
- 
+
 ## Business Requirements
 
-<p> IdngTT Sdn Bhd, a fictional company, intend to develop a digital identity onboarding platform that will support unlimited use cases as an identification provider. IdngTT has inaugurated a project called IDDY that is based on Web3. IDDY should be a mobile wallet allowing end users to receive and store verifiable credentials (VC),   </P>
+<p> IdngTT Sdn Bhd, a fictional company, wants to develop a digital identity onboarding solution to support unlimited use cases as an underlying identification provider. IdngTT has inaugurated a project called IDDY that is based on Web3.0. IDDY is a mobile application that consists of a Blockchain-based wallet specifically for identity storage. IDDY execute distinct roles in the form of Agent(s). An Agent could be a holder, issuer, or verifier. It performs unique roles based on the designated user type on the platform. </p>
 
+<p> IDDY can integrate through an endpoint to either public or private blockchain ledger to register a credentials definition, issued credentials public key, also known as the DID, and for verification purposes. For this first phase, IDDY will use Indy Blockchain. <em> Reference to Indy ledger [Indy blockchain](https://indyscan.io/txs/SOVRIN_STAGINGNET/domain) <em> </p> 
 
+<p> A Holder is an end user whose role is strictly to store credentials issued by an institution. E.g. A birth certificate issued by a hospital certified by a Government is a Verifiable Credentials. Similarly, other credential forms are school certificates, employment letters, driver's licences, banking information, or any identification documents. These are potential use cases of verifiable credentials stored on the Blockchain and issued to an end user's(holder) IDDY mobile application. </p>
 
- Generally, the internet hitherto is classified as Web2 in 
+<p> A Issuer is an entity or an institution that can issue a VC registered on the Blockchain to a holder. IDDY empowers a Holder agent to secure, store, and approve interactions of their credentials with other services through their mobile app. E.g. Issuers can be any of the following: a hospital, university, or an immigration service issuing out credentials to their end users.</p>
 
- The current internet is considered Web2 built around centralised architecture. Websites and all application deployed over the past three decades has been on this model. All user's personal information and identity are controlled by whoever owns or administer the web application. Hence, users do not necessarily have control over their information on the internet. 
+<p> A Verifier is an entity, institution or anyone empowered through the IDDY app to verify the authenticity of a VC against the Blockchain. A verifying agent can also be an Issuer in that an issuer must be able to verify the authenticity of their credentials and of others registered on the Blockchain, E.g. An hospital, a university, or an immigration service will be able to prove their issued certificates through IDDY App</p>
 
- ABC company is a finantial institution dealing with asset management and intend to migrate their entire infrastructure to Web3 model. Web3 is designed based on the blockchain's decentralised paradigm where data is residued in
+### Deliverables for IDDY
+<p> As a Business Analyst, create the deliverables for non-technical and technical stakeholders to progress with implementation. The main target is for Software engineers. </p>
+<p> 
+Deliverables for the above case:
+</p>
+
+1. Create a Business Requirements Documents (BRD) document for general stakeholders
+2. Create a Functional/Technical Specification Document (FSD/TSD) for the engineers or technical stakeholders
+3. Create a mock flow diagram to interpret the above.
+ ## Points to note
+  - This pop quiz will enable us to assess your work quality and documentation for a real project
+  - Kindly produce concise/short documents: quality over quantity. You are not required to produce any work that would take beyond the target dates for submission
+  - For any queries, reach out to the emails below
+
+# Submission process
+
+1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
+
+Good Luck!
