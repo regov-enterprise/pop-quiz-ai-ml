@@ -2,7 +2,7 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-<p style="text-align: center;"> Software Development Business Analysis PopQuiz! </p>
+<p style="text-align: center;"> Business Analysis PopQuiz! </p>
 
 ## Rationale
 
