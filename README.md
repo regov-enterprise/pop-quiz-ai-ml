@@ -1,29 +1,23 @@
-# POP Quiz - Business Analyst
+<p align="center"> 
+    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
+</p>
+#ReGov
+<p> Wec </p>
 
-## Purpose
-This assessment is designed to allow you to showcase your skills as a Business Analyst, specifically for a greenfield software development project.
+##Rationale
 
-Use any methodologies or analysis format you're comfortable with. At the end of this exercise, you would have demonstrated your ability to satisfy various stakeholders by producing usable artefacts, particularly to address the software engineers' needs. You may add any other essential deliverables as part of a BA role.
+The Internet has a weaklink that is long overdue for a complete overhaul. It is considered unfashionable as modern softwares still continues to use the same centralise data structures (Databases) while unable to guarantee its safety. Central databases are housed in or by a central provider, and thus they own and control the records in them. In other words, the personal and confidential information of a user provided during onbaording registration on any online platform is actually at the mercy of the platform owners. This has caused unimaginable risk to users across the world, in particular the cases of hacks and data bridges on banks and financial insitution globally re-occuring. Even more, personal data loss for anyone increase the risks of identity theft or infringement on many fronts: health, financial, business and on many personal endeavours, which is tool for continuous exploitation even after the bridge is resolved.
 
-### Project Summary
+Web3.0 is a paradigm shift from the current internet, which is considered as Web2.0. It intends to give users more control over their personal information on the internet. Companies will no longer be able to control the personal data on their online platforms nor will they have the explicit authority to share, extract or manipulate them. A user will have complete ownership of their data, a mantra culmunating to the Self-soverign Identity (SSI) blockchain. SSI powers the Web3.0 revolution. The paradigm shift gives rise to the adoption of SSI identity by many companies and service provider. In order to embody the qualities of Web3.0, SSI identity is the way to go.
 
-ABC Sdn Bhd, a financial asset management company, has submitted a proposal to your company XYZ Sdn Bhd, a software engineering firm where you work as a Business Analyst. The requirement is for a customer onboarding system with a Know Your Customer (KYC) core module. The system is to be called Sky Onboarding System (SOS).
+## Business Requirements
 
-SOS will have the following capabilities: User onboarding, KYC Workflow, Risks Score calculation, Risks score dashboard/reporting, product recommendation, Operations and User account creation after a successful process.
 
-As a software development firm, XYZ Sdn Bhd is expected to produce a BRD, FSD/FRS, and mock flow diagrams for the stakeholders and software engineers to reference to develop this solution.
 
-Deliverables for the above case:
-1. Create a Business Requirements Documents (BRD) document
-2. Create a Functional Specification Document (FSD / FRS) / Technical specification document
-3. Create any mock flow diagram
- ## Points to note
-  - This pop quiz will enable us assess your work quality and documentaton structure in a real project
-  - Kindly produce concise documents: quality and not quantity. You are not required to produce any work that would take beyond the target dates for sumbission
-  - For any queries reach out to the emails below
 
-# Submission process
 
-1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
+ Generally, the internet hitherto is classified as Web2 in 
 
-Good Luck!
+ The current internet is considered Web2 built around centralised architecture. Websites and all application deployed over the past three decades has been on this model. All user's personal information and identity are controlled by whoever owns or administer the web application. Hence, users do not necessarily have control over their information on the internet. 
+
+ ABC company is a finantial institution dealing with asset management and intend to migrate their entire infrastructure to Web3 model. Web3 is designed based on the blockchain's decentralised paradigm where data is residued in
