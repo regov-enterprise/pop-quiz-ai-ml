@@ -6,7 +6,7 @@
 
 ## Rationale
 
-<p> The Internet has a weak link that is long overdue for a complete overhaul. It is considered unfashionable as modern software continues to use the same centralized databases and cannot guarantee its safety. Most databases are usually located in a central location and owned by a single authority. Hence, they own and control all the records in their servers </br> In other words, a user's personal and confidential information used for registration on any online platform is actually at the mercy of the platform owners. <p/>
+<p> The Internet has a weak link that is long overdue for a complete overhaul. It is considered unfashionable as modern software continues to use the same centralized databases and cannot guarantee its safety. Most databases are usually located in a central location and owned by a single authority. </br> Hence, they own and control all the records in their servers. In other words, a user's personal and confidential information used for registration on any online platform is actually at the mercy of the platform owners. <p/>
 
 <p> This has caused unimaginable risk to users worldwide, particularly the cases of global hacks and data breaches on banks and financial institutions. </br> Even more, personal data loss for anyone increases the risks of identity theft or infringement on many fronts: health, finances, business and many personal endeavours. <p/>
 
