@@ -47,4 +47,4 @@ Deliverables for the above case:
 
 1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
 
-Good Luck! good night!
+Good Luck!
