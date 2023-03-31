@@ -13,7 +13,7 @@ You have two questions to attempt.
 
 ## Question 1
 
-<p> **Requirement** : Implement minimum of four(4) contraints of your choice.<p>
+<**Requirement** : <p> Implement minimum of four(4) contraints of your choice.</p>
 
 <p> Machine learning has changed the how we analyse, process and use data in decision making. As a ML engineer, provide technical implementation of your own rationale to seolve the following. 
 </P>
