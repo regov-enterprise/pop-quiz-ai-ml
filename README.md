@@ -42,10 +42,10 @@ Design and implement a Python-based machine learning solution for real-time anom
 
 ## Question 2
 
-**Requirement** : Implement Constraint 1,2, 6, and any other two (2) of your choice. </br>
 <p>
 You have been tasked to design and implement a backend API solution for an e-commerce. Feel free to use any architectural pattern, design pattern, and python  framework. Take into account the following business requirements and constraints.
 </p>
+
 **Requirement** : Implement requirements One (1), Two (2), Six (6), and any other Two (2) requirements  of your choice.<br>
 
 1. User Authentication and Authorization: Implement a user authentication and authorization system, supporting features such as registration, login, and password management.
