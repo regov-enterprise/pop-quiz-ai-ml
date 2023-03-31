@@ -2,7 +2,14 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-<p style="text-align: center;"> Business Analysis PopQuiz! </p>
+# Welcome to this PopQuiz!
+### { "Engineer": "AI Machine Learning" }
+
+Hey! We are excited that you are interested in joining the team at Regov Technologies.
+
+We feel that the best way for you to produce your best codes is when you hit flow in your comfort zone. Therefore, this is a pop-quiz for you to complete. This test should not take you a long amount of time to complete.
+
+Demonstrate your problem solving skills and understanding of core data structures by attempting both questions. The questions are open to interpretation and implementation.
 
 ## Rationale
 
@@ -47,4 +54,4 @@ Deliverables for the above case:
 
 1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
 
-Good Luck!
+Good Luck!# pop-quiz-ai-ml
