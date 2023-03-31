@@ -13,7 +13,7 @@ You have two questions to attempt.
 
 ## Question 1
 
-<p> Machine learning has changed the how we analyse, process and use data in decision making. As a ML engineer, provide technical implementation of your own rationale to seolve the following. 
+<p> Machine learning has changed how we analyze, process and use data in decision making. As an ML engineer, provide technical solution for the following. 
 </P>
 
 <p>
