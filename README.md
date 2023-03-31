@@ -13,13 +13,13 @@ You have two questions to attempt.
 
 ## Question 1
 
-**Requirement** : Implement minimum of four(4) contraints of your choice.</br>
-
 <p> Machine learning has changed the how we analyse, process and use data in decision making. As a ML engineer, provide technical implementation of your own rationale to seolve the following. 
 </P>
 
 <p>
 Design and implement a Python-based machine learning solution for real-time anomaly detection in time series data generated from multiple sensors. The algorithm should identify and classify unusual patterns or events that deviate significantly from the expected behavior in the given dataset. Consider the following requirements and constraints while developing your solution:
+
+**Requirement** : Implement four(4) minimum requirements & contraints among the following.</br>
 
 1. Data Preprocessing: Implement a method to clean, preprocess, and transform the raw sensor data into a suitable format for further analysis. This may include handling missing values, smoothing, and normalization.
 
@@ -46,6 +46,7 @@ Design and implement a Python-based machine learning solution for real-time anom
 <p>
 You have been tasked to design and implement a backend API solution for an e-commerce. Feel free to use any architectural pattern, design pattern, and python  framework. Take into account the following business requirements and constraints.
 </p>
+**Requirement** : Implement requirements One (1), Two (2), Six (6), and any other Two (2) requirements  of your choice.<br>
 
 1. User Authentication and Authorization: Implement a user authentication and authorization system, supporting features such as registration, login, and password management.
 
