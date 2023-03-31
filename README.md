@@ -42,7 +42,7 @@ Design and implement a Python-based machine learning solution for real-time anom
 
 ## Question 2
 
-<p> **Requirement** : Implement Constraint 1,2, 6, and any other two (2) of your choice.<p>
+<**Requirement** : <p>: Implement Constraint 1,2, 6, and any other two (2) of your choice.<p>
 <p>
 You have been tasked to design and implement a backend API solution for an e-commerce. Feel free to use any architectural pattern, design pattern, and python  framework. Take into account the following business requirements and constraints.
 </p>
