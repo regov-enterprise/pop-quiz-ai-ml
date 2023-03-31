@@ -7,51 +7,79 @@
 
 Hey! We are excited that you are interested in joining the team at Regov Technologies.
 
-We feel that the best way for you to produce your best codes is when you hit flow in your comfort zone. Therefore, this is a pop-quiz for you to complete. This test should not take you a long amount of time to complete.
+We feel that the best way for you to produce your best codes is when you hit flow in your comfort zone. Therefore, this is a pop-quiz for you to demonstrate your problem solving skills and understanding of key concepts in your toolbox. This test should not take you a long amount of time to complete. The questions are open to interpretation and implementation.
 
-Demonstrate your problem solving skills and understanding of core data structures by attempting both questions. The questions are open to interpretation and implementation.
+You have two questions to attempt.
 
-## Rationale
+## Question 1
 
-<p> The Internet has a weak link that is long overdue for a complete overhaul. It is considered unfashionable as modern software continues to use the same centralized databases and cannot guarantee its safety. Most databases are usually located in a central location and owned by a single authority. </br> Hence, they own and control all the records in their servers. In other words, a user's personal and confidential information used for registration on any online platform is actually at the mercy of the platform owners. <p/>
+<p> **Requirement** : Implement minimum of four(4) contraints of your choice.<p>
 
-<p> This has caused unimaginable risk to users worldwide, particularly the cases of global hacks and data breaches on banks and financial institutions. </br> Even more, personal data loss for anyone increases the risks of identity theft or infringement on many fronts: health, finances, business and many personal endeavours. <p/>
+<p> Machine learning has changed the how we analyse, process and use data in decision making. As a ML engineer, provide technical implementation of your own rationale to seolve the following. 
+</P>
 
-<p> Web3.0 is a paradigm shift from the current internet, considered Web2.0. </br> It intends to give users absolute control over their personal information on the internet. Companies will no longer be able to control the personal data on their online platforms, nor will they have the explicit authority to share, extract or manipulate them. Users will have complete ownership of their data, a mantra culminating in the Self-sovereign Identity (SSI) blockchain. SSI powers the Web3.0 revolution. The paradigm shift gives rise to the adoption of SSI identity by many companies and service providers. The transition from a central to a decentralized identity model powered by SSI is the base of new projects. <p/>
+<p>
+Design and implement a Python-based machine learning solution for real-time anomaly detection in time series data generated from multiple sensors. The algorithm should identify and classify unusual patterns or events that deviate significantly from the expected behavior in the given dataset. Consider the following requirements and constraints while developing your solution:
 
-<p> As an open-source initiative, the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
+1. Data Preprocessing: Implement a method to clean, preprocess, and transform the raw sensor data into a suitable format for further analysis. This may include handling missing values, smoothing, and normalization.
 
- - [W3C VC Credentials] (https://www.w3.org/TR/vc-data-model/)
- - [W3C DID] (https://www.w3.org/TR/did-core/)
+2. Feature Extraction: Develop techniques to extract relevant features from the time series data, such as statistical measures (mean, variance, etc.), frequency domain features (Fourier transform), or wavelet coefficients.
 
-## Business Requirements
+3. Model Selection: Compare and evaluate various machine learning algorithms, such as clustering, classification, or deep learning models, to choose the most appropriate approach for the given problem. Justify your choice based on the algorithm's performance, interpretability, and computational efficiency.
 
-<p> IdngTT Sdn Bhd, a fictional company, wants to develop a digital identity onboarding solution to support unlimited use cases as the underlying identification provider. IdngTT has inaugurated a project called IDDY, which based on Web3.0. IDDY is a mobile application that consists of a Blockchain-based wallet specifically for identity storage. IDDY execute distinct roles in the form of Agent(s). An Agent could be a Holder, Issuer, or Verifier. It performs unique roles based on the designated user type on the platform. </p>
+4. Hyperparameter Tuning: Optimize the selected model's hyperparameters to improve its anomaly detection performance using techniques like grid search, random search, or Bayesian optimization.
 
-<p> IDDY can integrate through an endpoint to either public or private blockchain ledger to register a credentials definition, log issued credentials public key, also known as the DID, and for verification purposes. For this first phase, IDDY will use Indy Blockchain. <em> Reference to Indy ledger [Indy blockchain](https://indyscan.io/txs/SOVRIN_STAGINGNET/domain) </em> </p> 
+5. Model Evaluation: Design a robust evaluation strategy to measure the performance of your anomaly detection solution, considering metrics such as precision, recall, F1-score, and area under the receiver operating characteristic (ROC) curve.
 
-<p> A Holder is an entity or a user whose role is strictly to store credentials issued by an institution. E.g. A birth certificate issued by a hospital certified by a Government is a Verifiable Credentials. Similarly, other credential forms are school certificates, employment letters, driver's licences, banking information, or any identification documents. OVerall, these are potential use cases of the verifiable credentials stored on the Blockchain and issued to an end user's(holder) IDDY mobile application. </p>
+6. Scalability and Real-time Processing: Ensure that your solution can efficiently handle large-scale datasets and real-time streaming data, taking into account potential bottlenecks and computational constraints.
 
-<p> A Issuer is an entity or an institution that can issue a VC registered on the Blockchain to a holder. IDDY empowers a Holder agent to secure, store, and approve interactions of their credentials with other services through their mobile app. E.g. Issuers can be any of the following: a hospital, university, or an immigration service issuing out credentials to their end users.</p>
+7. Visualization and Alerting: Develop a user-friendly interface to visualize the detected anomalies and provide an alerting mechanism to notify the relevant stakeholders when an anomaly is identified.
 
-<p> A Verifier is an entity, institution or anyone empowered through the IDDY app to verify the authenticity of a VC against the Blockchain. A verifying agent can also be an Issuer in that an issuer must be able to verify the authenticity of their credentials and of others registered on the Blockchain, E.g. An hospital, a university, or an immigration service will be able to prove their issued certificates through IDDY App</p>
+8. Model Maintenance: Propose a strategy to periodically update and retrain the model as new data becomes available, ensuring its continued effectiveness in detecting anomalies.
 
-### IDDY BA Project Deliverables
-<p> As a Business Analyst, create the deliverables for technical and non-technical stakeholders. The main audience is for Software engineers to be able to start implementation. </p>
-<p> 
-Deliverables for the above case:
 </p>
 
-1. Create a Business Requirements Documents (BRD) document for general stakeholders
-2. Create a Functional/Technical Specification Document (FSD/TSD) for the engineers or technical stakeholders
-3. Create a mock flow diagram to interpret the above.
- ## Points to note
-  - This pop quiz will enable us to assess your work quality and documentation for a real project
-  - Kindly produce concise/short documents: quality over quantity. You are not required to produce any work that would take beyond the target dates for submission
-  - For any queries, reach out to the emails below
+
+## Question 2
+
+<p> **Requirement** : Implement Constraint 1,2, 6, and any other two (2) of your choice.<p>
+<p>
+You have been tasked to design and implement a backend API solution for an e-commerce. Feel free to use any architectural pattern, design pattern, and python  framework. Take into account the following business requirements and constraints.
+</p>
+
+1. User Authentication and Authorization: Implement a user authentication and authorization system, supporting features such as registration, login, and password management.
+
+2. Product Catalog Management: Develop product catalog feature, allowing for the creation, updating, deletion, and retrieval of product information, such as names, descriptions, images, categories, and pricing.
+
+3. Inventory Management: Design an inventory management system to track and update the stock levels of products in real-time, ensuring accurate information is available to both customers and administrators.
+
+4. Order Processing and Fulfillment: Create an API to handle customer orders, including the placement, payment, shipping, and tracking of orders, as well as the processing of returns and refunds.
+
+5. Search and Recommendation: Implement search functionality that allows customers to quickly find and discover products based on various criteria, such as keywords, categories, or personalized recommendations.
+
+6. Performance and Scalability: Ensure that the backend API can handle a high volume of concurrent requests and scale horizontally to accommodate the growing user base and product catalog.
+
+7. Data Persistence and Caching: Optimize data storage and retrieval using appropriate databases (e.g., relational, NoSQL), and implement caching mechanisms to improve performance and reduce latency.
+
+8. Integration with Third-Party Services: Design the API to seamlessly integrate with third-party services, such as payment gateways, shipping providers, and marketing tools, to support the platform's end-to-end operations.
+
+9. Monitoring and Logging: Implement comprehensive monitoring and logging capabilities to track API performance, usage, and errors, enabling rapid identification and resolution of issues.
+
+10. Documentation and Testing: Provide clear and concise API documentation to facilitate easy integration with frontend applications and other systems, and ensure thorough testing of the API to validate functionality and performance under various conditions.
+
+### Notes
+
+- Use Python
+- Use Git API V3 or above
+- Dockerise the application
+- Apply your preferred coding structure
+- Unit test is an added advantage
+- Adda  README
+- Writing design documents will attract extra points
+- Solving / attempting all the questions beyond the minium requirements is an added advantage  :)
 
 # Submission process
 
 1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
 
-Good Luck!# pop-quiz-ai-ml
+Good Luck!# 
