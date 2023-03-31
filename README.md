@@ -70,9 +70,9 @@ You have been tasked to design and implement a backend API solution for an e-com
 
 ### Notes
 
-- Use Python
-- Use Git API V3 or above
-- Dockerise the application
+- Programming Language :  Python 
+- Use GitHub for Code management
+- Dockerise the application if required
 - Apply your preferred coding structure
 - Unit test is an added advantage
 - Adda  README
@@ -81,6 +81,6 @@ You have been tasked to design and implement a backend API solution for an e-com
 
 # Submission process
 
-1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
+1. Email the GitHub repo to careers@regovtech.com & techchallenge@regovtech.com
 
 #Good Luck!
